@@ -12,8 +12,5 @@
 
 <h2>Установка и запуск</h2>
 <pre>
-git clone https://github.com/yourusername/CareerGuideBot.git
-cd CareerGuideBot
-pip install -r requirements.txt
-python bot.py
+
 </pre>
